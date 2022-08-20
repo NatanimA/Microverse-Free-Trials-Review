@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Microverse-Portfolio-Project
+# Microverse-Free-Trials_Review
 
-> This is a project I have done learning in microverse,I have used designs from figma to implement this project,If you like it please give it a Star.⭐️:wink:
+> This is a project I have done learning in microverse,To Review a project i have done in free trials of microverse. project link https://github.com/NatanimA/TributePage
 
 
 ## Built With
@@ -18,7 +18,7 @@
 
 
 To get a local copy up and running follow these simple example steps.
-**git clone  https://github.com/NatanimA/Microverse-Portfolio-Project.git**
+**git clone  https://github.com/NatanimA/Microverse-Free-Trials-Review.git
 
 ### Prerequisites
 **No prerequisties needed**
